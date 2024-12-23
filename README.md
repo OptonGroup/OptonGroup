@@ -1,3 +1,5 @@
+# 👨‍💻 Максим Симаков
+
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;AI%2FML+Engineer;Competitive+Programmer;Hackathon+Winner)](https://git.io/typing-svg)
@@ -13,11 +15,7 @@
 
 ## 🕵️ О себе
 
-<div>
-  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-  
-  Python Backend-разработчик с глубоким пониманием AI/ML и страстью к спортивному программированию. Студент МИСиС (ИВТ), постоянно расширяющий границы возможного в мире технологий.
-</div>
+Python Backend-разработчик с глубоким пониманием AI/ML и страстью к спортивному программированию. Студент МИСиС (ИВТ), постоянно расширяющий границы возможного в мире технологий.
 
 <details>
 <summary><h3>🏆 Достижения и Награды</h3></summary>
