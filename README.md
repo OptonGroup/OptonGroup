@@ -96,8 +96,3 @@ class Projects {
   [![Kwork](https://img.shields.io/badge/-Kwork-orange?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kwork.ru/user/optongroup)
   
 </div>
-
----
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
