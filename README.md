@@ -2,10 +2,8 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;AI%2FML+Engineer;Competitive+Programmer;Hackathon+Winner)](https://git.io/typing-svg)
-  
-  🚀 **CEO в Opton Group** 🚀
-  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Hackathon+Winner)](https://git.io/typing-svg)
+    
   <br>
   
   [![GitHub followers](https://img.shields.io/github/followers/OptonGroup?label=Follow&style=social)](https://github.com/OptonGroup)
